@@ -29,13 +29,10 @@ repositories {
         url = "http://maven.modmuss50.me/"
     }
     maven {
-        name "Raoulvdberge"
-        url  "https://repo.raoulvdberge.com/"
-    }
-    maven {
         name "jei"
         url "http://dvs1.progwml6.com/files/maven"
     }
+    maven { url 'https://jitpack.io' }
 }
 
 // define the properties file
@@ -67,7 +64,7 @@ dependencies {
     deobfCompile ('RebornCore:RebornCore-1.12.2:+:universal'){
         transitive = false
     }
-    deobfCompile ('refinedstorage:refinedstorage:1.6-+'){
+    deobfCompile ('com.github.tth05:morerefinedstorage:v2.2.4'){
         transitive = false
     }
     deobfCompile "mezz.jei:jei_1.12:+"
