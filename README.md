@@ -1,7 +1,7 @@
 An unoffical repository of QuantumStorage specifically for use with morerefinedstorage.
 
 
-Working with morerefinedstorage-2.2.10 and RebornCore-1.12.2-3.19.5.
+Tested working with morerefinedstorage-2.2.10 and RebornCore-1.12.2-3.19.5.
 
 Building
 =========
