@@ -1,4 +1,4 @@
-The offical repository of QuantumStorage.
+An unoffical repository of QuantumStorage specifically for use with morerefinedstorage.
 
 
 
